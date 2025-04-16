@@ -1,0 +1,7 @@
+opencv-python
+numpy
+tensorflow
+rawpy
+imageio
+pywin32
+pyserial
